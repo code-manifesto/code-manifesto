@@ -17,6 +17,6 @@ In the effort to create such a place, we hold to these values:
 How to contribute
 =================
 
-This is a community-driven project. We welcome all contributions directly submitted as pull requests. 
+This is a collaborative effort. We welcome all contributions submitted as pull requests. 
 
 (Contributions on wording & style are also welcome.)
