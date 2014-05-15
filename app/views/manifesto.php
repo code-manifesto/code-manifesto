@@ -49,7 +49,6 @@
 				</li>
 				<li>
 				<strong>Boundaries honor us.</strong> Your comfort levels are not everyone’s comfort levels. Remember that, and if brought to your attention, heed it.
-
 				</li>
 				<li>
 				<strong>We are our biggest assets.</strong> None of us were born masters of our trade. Each of us has been helped along the way. Return that favor, when and where you can. 
@@ -60,7 +59,9 @@
 				<li>
 				<strong>Respect defines us.</strong> Treat others as you wish to be treated. Make your discussions, criticisms and debates from a position of respectfulness. Ask yourself, is it true, is it necessary, is it constructive? Anything less is untolerated. 
 				</li>
-			</ol>
+				<li>
+				 <strong>Reactions require grace.</strong> Immediate rage is neither constructive nor respectful. When something happens that offends you, handle it respectfully, and quietly. Escalate reasonably, if necessary, but only after allowing the offender opportunity to explain themselves, and possibly correct the issue.
+				</li>
           </div>
 
           <div class="mastfoot">
