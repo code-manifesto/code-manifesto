@@ -60,7 +60,7 @@
 				<strong>Respect defines us.</strong> Treat others as you wish to be treated. Make your discussions, criticisms and debates from a position of respectfulness. Ask yourself, is it true, is it necessary, is it constructive? Anything less is untolerated. 
 				</li>
 				<li>
-				 <strong>Reactions require grace.</strong> Immediate rage is neither constructive nor respectful. When something happens that offends you, handle it respectfully, and quietly. Escalate reasonably, if necessary, but only after allowing the offender opportunity to explain themselves, and possibly correct the issue.
+				 <strong>Reactions require grace.</strong> Angry responses are valid, but abusive language and vindictive actions are poisonous. When something happens that offends you, handle it assertively, but be respectful. Escalate reasonably, and try to allow the offender an opportunity to explain themselves, and possibly correct the issue.
 				</li>
           </div>
 
