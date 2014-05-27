@@ -77,7 +77,7 @@
 </div>
 
 <div class="form-group">
-{{ Form::label('state', 'State/Region', ['class' => 'control-label col-sm-3 hidden-xs']) }}
+{{ Form::label('country', 'Country', ['class' => 'control-label col-sm-3 hidden-xs']) }}
 <div class="col-sm-9">
 <select name="country" class="form-control">
 <option value="" disabled selected>Choose a country</option>
