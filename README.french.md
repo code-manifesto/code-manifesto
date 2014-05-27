@@ -7,7 +7,7 @@ Un espace comme celui-ci profite à tous qui participe à elle. Il encourage de 
 
 Dans le but de créer un tel lieu, nous tenons à ces valeurs:
 
-1. **Discrimination nous limite.** Cela comprend la discrimination fondée sur la race, le sexe, l'orientation sexuelle, la nationalité et de toute autre exclusion arbitraire d'un groupe de personnes.
+1. **Discrimination nous limite.** Cela comprend la discrimination fondée sur la race, le sexe, l'orientation sexuelle, l'âge, la nationalité et de toute autre exclusion arbitraire d'un groupe de personnes.
 2. **Limites nous honorent.** Vos niveaux de confort ne sont pas des niveaux de confort de chacun. Rappelez-vous que, si portés à votre attention, attention à ce.
 3. **Nous sommes nos plus grands atouts.** Aucun d'entre nous sont nés maîtres de notre commerce. Chacun de nous a été aidé le long du chemin. Renvoyez cette faveur, quand et où vous le pouvez.
 4. **Nous sommes des ressources pour l'avenir.** Dans le prolongement de n° 3, partager ce que vous savez. Faites-vous une ressource pour aider ceux qui viennent après vous.

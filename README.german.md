@@ -7,13 +7,13 @@ Ein solches Umfeld nutzt allen, die daran teilhaben. Es ermutigt neue Entwickler
 
 Die folgenden Werte dienen als Grundlage für ein solches Umfeld:
 
-1. **Diskriminierung schränkt uns ein.** Das gilt für Diskriminierung aufgrund der Ethnie, des Geschlechts, der sexuellen Orientierung, der Nationalität oder jegliche andere willkürliche Ausgrenzung bestimmter Gruppen.
+1. ** Diskriminierung schränkt uns. ** Dies schließt Diskriminierung aufgrund von Rasse, Geschlecht, sexueller Orientierung, Alter, Nationalität und jede andere beliebige Ausschluss einer Gruppe von Menschen.
 2. **Mit Grenzen ehren wir uns gegenseitig.** Nicht jeder hat die gleiche Comfort-Zone. Denkt daran und wenn ihr darauf hingewiesen werdet, respektiert sie entsprechend.
 3. **Wir selbst sind unser größtes Kapital.** Niemand hier wurde als Meister unseres Faches geboren. Jedem wurde schon einmal geholfen. Erwidert den Gefallen, wann und wo immer ihr könnt.
 4. **Wir sind die Ressourcen der Zukunft.** Quasi eine Erweiterung von Nr. 3: Teilt euer Wissen. Werdet selbst zu einer Informationsquelle, um denen zu helfen, die nach euch kommen.
 5. **Respekt definiert uns.** Behandelt andere so, wie ihr behandelt werden möchtet. Für Diskussionen, Debatten und Kritik gilt: immer respektvoll bleiben. 
 Fragt euch selbst: Ist es zutreffend? Ist es notwendig? Ist es konstruktiv? Alles andere wird nicht toleriert.
-6. **Erwiderungen erfordern Größe.**  Verärgerte Antworten sind berechtigt, aber beleidigende Ausdrucksweise und rachsüchtige Aktionen vergiften die Atmosphäre. Wenn etwas passiert, das euch beleidigt, macht das deutlich, aber bleibt respektvoll. Geht es vernünftig an und gebt dem, der euch beleidigt hat, die Gelegenheit sich zu erklären und die ganze Sache womöglich richtig zu stellen.
+6. ** Reaktionen erfordern Gnade. ** Verärgerte Reaktionen sind gültig, aber Beleidigungen und rachsüchtig Aktionen sind giftig. Wenn etwas passiert, das beleidigt fühlen, selbstbewusst damit umgehen, aber respektvoll. Eskalieren vernünftig, und versuchen nach dem Täter die Möglichkeit, sich zu erklären, und möglicherweise das Problem beheben können.
 
 
 Euer Beitrag
