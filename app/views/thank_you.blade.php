@@ -13,8 +13,8 @@
         <div class="well well-sm col-md-4 thank-you-block">
             <div class="row">
                 <div class="col-md-2">
-                    <div class="circle">
-                        <i class="icon-user"></i>
+                    <div class="circular">
+                        <img src="<?= Gravatar::src($supporter->email) ?>">
                     </div>
                 </div>
                 <div class="col-md-9 pull-right">
