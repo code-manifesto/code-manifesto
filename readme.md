@@ -1,21 +1,23 @@
-## Laravel PHP Framework
+The Code Manifesto
+==============
 
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/version.png)](https://packagist.org/packages/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.png)](https://packagist.org/packages/laravel/framework) [![Build Status](https://travis-ci.org/laravel/framework.png)](https://travis-ci.org/laravel/framework) [![License](https://poser.pugx.org/laravel/framework/license.png)](https://packagist.org/packages/laravel/framework)
+We want to work in an ecosystem that empowers developers to reach their potential. One that encourage growth and collaboration. A space that is safe for all. 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+A space such as this benefits everyone that participates in it. It encourages new developers to enter our field. It is through discussion and collaboration that we grow, and through growth that we improve. 
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+In the effort to create such a place, we hold to these values:
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+1. **Discrimination limits us.** This includes discrimination on the basis of race, gender, sexual orientation, nationality and any other arbitrary exclusion of a group of people. 
+2. **Boundaries honor us.** Your comfort levels are not everyone’s comfort levels. Remember that, and if brought to your attention, heed it.
+3. **We are our biggest assets.** None of us were born masters of our trade. Each of us has been helped along the way. Return that favor, when and where you can. 
+4. **We are resources for the future.** As an extension of #3, share what you know. Make yourself a resource to help those that come after you. 
+5. **Respect defines us.** Treat others as you wish to be treated. Make your discussions, criticisms and debates from a position of respectfulness. Ask yourself, is it true, is it necessary, is it constructive? Anything less is untolerated. 
+6. **Reactions require grace.** Immediate rage is neither constructive nor respectful. When something happens that offends you, handle it respectfully, and quietly. Escalate reasonably, if necessary, but only after allowing the offender opportunity to explain themselves, and possibly correct the issue. 
 
-## Official Documentation
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+How to contribute
+=================
 
-### Contributing To Laravel
+This is a collaborative effort. We welcome all contributions submitted as pull requests. 
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+(Contributions on wording & style are also welcome.)
