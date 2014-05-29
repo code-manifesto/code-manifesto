@@ -7,13 +7,13 @@
 </div>
 <hr>
 <div class="thank-you-block-container">
-    <h3> Other Supporters</h3>
+    <h3> {{$supporters->count()}} Supporters</h3>
     <div class="text-left">
         @foreach($supporters as $supporter)
         <div class="well well-sm col-md-4 thank-you-block">
             <div class="row">
                 <div class="col-md-2">
-                    <div class="circular">
+                    <div class="circle">
                         <img src="<?= Gravatar::src($supporter->email) ?>">
                     </div>
                 </div>
@@ -28,14 +28,14 @@
                     <br/>
                     @if ($supporter->twitter_user)
                     <a href="http://www.twitter.com/{{$supporter->twitter_user}}" target="_blank">
-                        <i class="icon-twitter"></i>{{$supporter->twitter_user}}
+                        <i class="icon-twitter"></i> {{$supporter->twitter_user}}
                     </a>
                     @endif
 
                     <br/>
                     @if ($supporter->github_user)
                     <a href="http://www.github.com/{{$supporter->github_user}}" target="_blank">
-                        <i class="icon-github"></i>{{$supporter->github_user}}
+                        <i class="icon-github"></i> {{$supporter->github_user}}
                     </a>
                     @endif
                 </div>

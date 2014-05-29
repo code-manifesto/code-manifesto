@@ -104,7 +104,11 @@ hr {	border: none;
     border-top:dashed 1px #888;
 }
 
-.circle{
+.inner.cover {
+    margin-top: 100px;
+}
+
+.circle img{
     border-radius: 100px;
     background: #888888;
     color: white;
