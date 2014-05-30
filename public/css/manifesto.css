@@ -130,6 +130,14 @@ hr {    border: none;
     padding-right:1.8em;
 }
 
+.thank-you-block .col-md-2 {
+    width:25%;
+}
+
+.thank-you-block .col-md-9 {
+    width:75%;
+}
+
 /*
  * Cover
  */
@@ -202,12 +210,6 @@ hr {    border: none;
 
     .thank-you-block {
         width:33%;
-    }
-}
-
-@media screen and (min-width:1px) {
-    .thank-you-block .col-md-2 {
-        width:10%;
     }
 }
 
