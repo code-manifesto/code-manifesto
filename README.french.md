@@ -7,12 +7,12 @@ Chacun bénéficie de sa participation à un tel espace. Il encourage les nouvea
 
 Dans le but de créer un tel lieu, nous avons mis à l'écrit nos valeurs :
 
-1. **Discrimination nous limite.** Cela comprend la discrimination fondée sur la race, le sexe, l'orientation sexuelle, l'âge, la nationalité et de toute autre exclusion arbitraire d'un groupe de personnes.
-2. **Limites nous honorent.** Vos niveaux de confort ne sont pas des niveaux de confort de chacun. Rappelez-vous que, si portés à votre attention, attention à ce.
-3. **Nous sommes nos plus grands atouts.** Aucun d'entre nous sont nés maîtres de notre commerce. Chacun de nous a été aidé le long du chemin. Renvoyez cette faveur, quand et où vous le pouvez.
-4. **Nous sommes des ressources pour l'avenir.** Dans le prolongement de n° 3, partager ce que vous savez. Faites-vous une ressource pour aider ceux qui viennent après vous.
-5. **Respect nous définit.** Traitez les autres comme vous aimeriez être traité. Faites vos discussions, critiques et débats d'une position de respectfulness. Demandez-vous, est-il vrai? Est-il nécessaire? Est-il constructif? Rien de moins tolérées, est.
-6. **Réactions nécessitent grâce.** Réponses en colère sont valables, mais un langage abusif et vindicatifs actions sont toxiques. Quand quelque chose arrive que vous offense, manipulez-le avec assurance, mais soyez respectueux. Escalader raisonnable, et d'essayer de permettre au délinquant la possibilité de s'expliquer, et éventuellement corriger le problème.
+1. **La discrimination nous limite.** Nous parlons ici de toute discrimination basée sur la race, le sexe, l'orientation sexuelle, l'âge, la nationalité ou toute autre forme d'exclusion arbitraire d'un groupe de personnes.
+2. **Nos différences nous honorent.** Votre zone de confort n'est pas la même que celle de tous les autres. Rappelez-vous en et si cela est porté à votre attention, tenez-en compte.
+3. **Nous sommes nos meilleures alliés.** Aucun d'entre nous n'est né maitre de son domaine. Chacun a été aidé tout au long de son apprentissage. Renvoyez cette faveur dès que vous le pouvez.
+4. **Nous sommes les ressources de l'avenir.** Dans le prolongement du point #3, partagez ce que vous savez. Transformez-vous en un mentor pour aider ceux qui vont prendre votre suite.
+5. **Le respect nous définit.** Traitez les autres comme vous voudriez être traité. Discutez, critiquez et débâtez tout en gardant une position respectueuse de chacun. Demandez-vous avant chacune de vos phrases : est-ce vrai ? Est-ce nécessaire de le dire ? Est-ce constructif ? Tout propos sortant de ce cadre ne sera pas toléré.
+6. **Les réponses requièrent de la subtilité.** Les réponses colériques peuvent ête intéressantes mais un langage abusif ou vindicatif est toxique. Si quelque chose vous offense, soyez affirmatif mais respectueux. Restez raisonnables et essayez de donner une opportunité à celui qui vous a offensé de s'expliquer, et potentiellement de corriger le problème.
 
 Comment contribuer
 ==================
