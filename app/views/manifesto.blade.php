@@ -15,7 +15,7 @@
     </p>
     <ol>
         <li>
-        <strong>Discrimination limits us.</strong> This includes discrimination on the basis of race, gender, sexual orientation, nationality and any other arbitrary exclusion of a group of people.
+        <strong>Discrimination limits us.</strong> This includes discrimination on the basis of race, gender, gender identity & expression, sexual orientation, nationality and any other arbitrary exclusion of a group of people.
         </li>
         <li>
         <strong>Boundaries honor us.</strong> Your comfort levels are not everyone’s comfort levels. Remember that, and if brought to your attention, heed it.
