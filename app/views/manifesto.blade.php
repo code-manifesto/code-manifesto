@@ -31,7 +31,7 @@
         </li>
         <li>
          <strong>Reactions require grace.</strong> Angry responses are valid, but abusive language and vindictive
-            actions are poisonous. When something happens that offends you, handle it assertively, but be respectful.
+            actions are toxic. When something happens that offends you, handle it assertively, but be respectful.
             Escalate reasonably, and try to allow the offender an opportunity to explain themselves, and possibly
             correct the issue.
         </li>
