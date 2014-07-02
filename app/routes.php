@@ -13,22 +13,22 @@
 
 Route::get('/', function()
 {
-	return View::make('manifesto');
+	return View::make('manifesto')->with(array('active_item' => 'home'));
 });
 
 Route::get('/support', function()
 {
-	return View::make('support');
+	return View::make('support')->with(array('active_item' => 'support'));
 });
 
 Route::post('/support', array('uses' => 'SupporterController@newSupporter'));
 
 Route::get('/thankYou', function()
 {
-    return View::make('thank_you')->with('supporters', Supporter::all());
+    return View::make('thank_you')->with(array('supporters'=> Supporter::all(), 'active_item'=>'list'));
 });
 
 Route::get('/about', function()
 {
-    return View::make('about');
+    return View::make('about')->with(array('active_item' => 'about'));
 });

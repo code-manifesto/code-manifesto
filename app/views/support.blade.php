@@ -1,14 +1,15 @@
 @extends('layouts.master')
 
 @section('content')
-<div class="inner cover">
+<div class="container-narrow">
 
     <h4>
-        Enter your information below to show your support for these values. Only your name and email is required.
+        Enter your information below to support the Code Manifesto. Only your name and email is required.
         Emails will not be shared.
         <br>
         <br>
-        By filling out this form your name and social profiles will be listed on this site under current supporters.
+        By filling out this form your name and links to social profiles will be listed on this site under current supporters.
+        <br>
     </h4>
     {{ Form::open(array('url' => '/support', 'class'=>'form-horizontal')) }}
 
@@ -304,7 +305,7 @@
     </div>
     <br>
     <div class="col-md-12">
-        {{ Form::submit('Submit', array('class' => 'btn btn-primary')) }}
+        {{ Form::submit('Submit', array('class' => 'btn btn-support btn-lg btn-block')) }}
     </div>
     {{ Form::close() }}
 
