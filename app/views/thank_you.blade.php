@@ -2,11 +2,9 @@
 
 @section('content')
 
-<div class="inner cover">
-    <h3>Thank you for your support!</h3>
-</div>
+<h3>Thank you for your support!</h3>
 <hr>
-<div class="thank-you-block-container">
+<div>
     <h3> {{$supporters->count()}} Supporters</h3>
     <div class="text-left">
         @foreach($supporters as $supporter)
