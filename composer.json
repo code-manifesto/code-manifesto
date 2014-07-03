@@ -19,7 +19,8 @@
 		],
         "psr-0": {
             "CodeManifesto": "app/src/"
-        }
+        },
+        "files": ["app/helpers.php"]
 	},
 	"scripts": {
 		"post-install-cmd": [
