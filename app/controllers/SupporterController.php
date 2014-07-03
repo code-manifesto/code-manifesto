@@ -34,11 +34,11 @@ class SupporterController extends BaseController {
 
     public function support()
     {
-        return View::make('support')->with(array('active_item' => 'support'));
+        return View::make('support');
     }
     public function thankYou()
     {
-        return View::make('thank_you')->with(array('supporters'=> Supporter::all(), 'active_item'=>'list'));
+        return View::make('thank_you')->with(array('supporters'=> Supporter::all()));
     }
 
 }

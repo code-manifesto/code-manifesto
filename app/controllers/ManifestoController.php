@@ -14,12 +14,12 @@ class ManifestoController extends BaseController
         if ($language) $content = File::get(base_path()."/README.".$language.".md");
         else $content = File::get(base_path()."/README.md");
         $content = $Parsedown->text($content);
-        return View::make('manifesto')->with(array('active_item' => 'home', 'content' => $content));
+        return View::make('manifesto')->with(array('content' => $content));
     }
 
     public function about()
     {
-        return View::make('about')->with(array('active_item' => 'about'));
+        return View::make('about');
     }
 
 } 
