@@ -316,6 +316,10 @@ body {
 {
     list-style: none;
 }
+a
+{
+    color:rgb(52, 168, 168);
+}
 
 
 .nav-sidebar > .active > a,

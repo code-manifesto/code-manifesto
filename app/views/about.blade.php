@@ -27,8 +27,16 @@
     You can contact Kayla <a href="mailto:kayladnls@gmail.com">here</a>.
     <br/>
     <br/>
-    Logo Designed by <a href="http://matthewa.com/" target="_blank">Matt Andrews</a>
+    Logo Designed by <a href="http://matthewa.com/" target="_blank">Matt Andrews</a><br><br>
 
+    <h4>Translations</h4>
+    Arabic by <a href="https://github.com/badrchaouai">Badr Chaouai</a><br>
+    Dutch by <a href="https://github.com/wvdweij">Wijnand</a><br>
+    French by <a href="https://github.com/tgalopin">Titouan Galopin</a> and <a href="https://github.com/aalaap">Aalaap</a><br>
+    German by <a href="https://github.com/janhohner">Jan Hohner</a><br>
+    Italian by <a href="https://twitter.com/damko">Damiano Venturin</a><br>
+    Brazilian Portuguese by <a href="https://github.com/antonioribeiro">Antonio Carlos Ribeiro</a><br>
+    Spanish by <a href="https://github.com/nvellon">Nicolás Vellón</a><br>
   </div>
 @stop
 
