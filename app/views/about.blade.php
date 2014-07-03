@@ -19,6 +19,10 @@
     <br/>
     Additionally, if you are a designer and would like to contribute, your help would be greatly appreciated.
     You can contact Kayla <a href="mailto:kayladnls@gmail.com">here</a>.
+    <br/>
+    <br/>
+    Logo Designed by <a href="http://matthewa.com/" target="_blank">Matt Andrews</a>
+
   </div>
 @stop
 
