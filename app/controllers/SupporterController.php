@@ -16,7 +16,6 @@ class SupporterController extends BaseController {
                     ->withInput(Input::all());
         } else {
 
-            // store
             $supporter = new Supporter;
             $supporter->first_name     = Input::get('first_name');
             $supporter->last_name      = Input::get('last_name');
@@ -33,10 +32,13 @@ class SupporterController extends BaseController {
 
 	}
 
+    public function support()
+    {
+        return View::make('support')->with(array('active_item' => 'support'));
+    }
     public function thankYou()
     {
-
-        return View::make('thank_you')->with('supporters', Supporter::all());
+        return View::make('thank_you')->with(array('supporters'=> Supporter::all(), 'active_item'=>'list'));
     }
 
 }
