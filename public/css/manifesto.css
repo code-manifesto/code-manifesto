@@ -224,7 +224,8 @@ body {
  * Sidebar
  */
 
- Hide for mobile, show later
+ /*Hide for mobile, show later*/
+
 .sidebar {
      display: none;
  }
@@ -292,6 +293,17 @@ body {
     .nav-sidebar{
         padding-top:20px;
         padding-right: 0;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .navbar-header a {
+        float:left;
+        width:75%;
+    }
+
+    .navbar-header a img {
+        max-width:100%;
     }
 }
 
