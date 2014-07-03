@@ -11,9 +11,21 @@
 |
 */
 
+Route::get('/ln/{language?}', function($language = NULL)
+{
+    $Parsedown = new Parsedown();
+    if ($language) $content = File::get(base_path()."/README.".$language.".md");
+    else  $content = File::get(base_path()."/README.md");
+    $content = $Parsedown->text($content);
+    return View::make('manifesto')->with(array('active_item' => 'home', 'content' => $content));
+});
+
 Route::get('/', function()
 {
-	return View::make('manifesto')->with(array('active_item' => 'home'));
+    $Parsedown = new Parsedown();
+    $content = File::get(base_path()."/README.md");
+    $content = $Parsedown->text($content);
+    return View::make('manifesto')->with(array('active_item' => 'home', 'content' => $content));
 });
 
 Route::get('/support', function()

@@ -120,6 +120,7 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
         'Thomaswelton\LaravelGravatar\LaravelGravatarServiceProvider',
+        'CodeManifesto\Composers\ComposerServiceProvider'
 
 	),
 
