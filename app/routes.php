@@ -11,11 +11,10 @@
 |
 */
 
-Route::get('/ln/{language?}', function($language = NULL)
+Route::get('/ln/{language}', function($language)
 {
     $Parsedown = new Parsedown();
-    if ($language) $content = File::get(base_path()."/README.".$language.".md");
-    else  $content = File::get(base_path()."/README.md");
+    $content = File::get(base_path()."/README.".$language.".md");
     $content = $Parsedown->text($content);
     return View::make('manifesto')->with(array('active_item' => 'home', 'content' => $content));
 });
