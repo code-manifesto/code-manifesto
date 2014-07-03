@@ -29,7 +29,6 @@
     <br/>
     Logo Designed by <a href="http://matthewa.com/" target="_blank">Matt Andrews</a><br><br>
     <br/>
-    <br/>
     Front End Contributions by <a href="https://github.com/craigpaul">Craig Paul</a>
 
     <h4>Translations</h4>
