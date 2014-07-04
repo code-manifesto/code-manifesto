@@ -16,12 +16,15 @@ class Mapping
 	public function fire($job, $data)
 	{
 		$address = $this->getAddress($data);
-		$latLong = $this->getLatLong($address);
 
-		$supporter = Supporter::find($data['id']);
-		$supporter->latitude = $latLong['lat'];
-		$supporter->longitude = $latLong['lng'];
-		$supporter->save();
+		if($address) {
+			$latLong = $this->getLatLong($address);
+
+			$supporter = Supporter::find($data['id']);
+			$supporter->latitude = $latLong['lat'];
+			$supporter->longitude = $latLong['lng'];
+			$supporter->save();
+		}
 	}
 
 	/**
