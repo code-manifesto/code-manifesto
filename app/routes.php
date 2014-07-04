@@ -11,3 +11,9 @@ Route::get('/support', 'SupporterController@support');
 Route::post('/support', 'SupporterController@newSupporter');
 
 Route::get('/thankYou', 'SupporterController@thankYou');
+
+Route::post('/queue/receive', function()
+{
+	return Queue::marshal();
+});
+
