@@ -7,7 +7,7 @@ Chacun bénéficie de sa participation à un tel espace. Il encourage les nouvea
 
 Dans le but de créer un tel lieu, nous avons mis à l'écrit nos valeurs :
 
-1. **La discrimination nous limite.** Nous parlons ici de toute discrimination basée sur la race, le sexe, l'orientation sexuelle, l'âge, la nationalité ou toute autre forme d'exclusion arbitraire d'un groupe de personnes.
+1. **La discrimination nous limite.** Nous parlons ici de toute discrimination basée sur la race, le sexe, l'orientation sexuelle, l'identité de genre, l'âge, la nationalité ou toute autre forme d'exclusion arbitraire d'un groupe de personnes.
 2. **Nos différences nous honorent.** Votre zone de confort n'est pas la même que celle de tous les autres. Rappelez-vous en et si cela est porté à votre attention, tenez-en compte.
 3. **Nous sommes nos meilleures alliés.** Aucun d'entre nous n'est né maitre de son domaine. Chacun a été aidé tout au long de son apprentissage. Renvoyez cette faveur dès que vous le pouvez.
 4. **Nous sommes les ressources de l'avenir.** Dans le prolongement du point #3, partagez ce que vous savez. Transformez-vous en un mentor pour aider ceux qui vont prendre votre suite.

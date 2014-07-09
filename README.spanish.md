@@ -7,7 +7,7 @@ Un espacio como este beneficia a todos los que participen en él. Motiva a los n
 
 En el esfuerzo por crear tal espacio, sostenemos estos valores:
 
-1. **La Discriminación nos limita.** Esto incluye discriminación por motivos de raza, género, orientación sexual, edad, nacionalidad y cualquier otra exclusión arbitraria de un grupo de personas.
+1. **La Discriminación nos limita.** Esto incluye discriminación por motivos de raza, género, orientación sexual, la identidad de género, edad, nacionalidad y cualquier otra exclusión arbitraria de un grupo de personas.
 2. **Los Límites nos honran.** Tus niveles de confort no son los niveles de confort de todos. Recuérdalo, y si llama tu atención, atiéndelo.
 3. **Somos nuestro activo principal.** Ninguno de nosotros nació siendo un maestro en nuestro negocio. Cada uno de nosotros ha recibido ayuda a lo largo de su camino. Devuelve el favor, cuando y donde puedas.
 4. **Somos recursos para el futuro.** Como una extensión de #3, comparte lo que sabes. Haz de ti un recurso de ayuda para quienes vienen detrás.

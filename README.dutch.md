@@ -7,7 +7,7 @@ Een plek zoals deze zal iedereen die meedoet ten goede komen. Het stimuleert nie
 
 In de poging om deze plek te creëren, houden we vast aan de volgende waarden:
 
-1. **Discriminatie beperkt ons.** Dit geldt ook voor discriminatie op basis van ras, geslacht, seksuele geaardheid, leeftijd, nationaliteit en alle andere willekeurige uitsluiting van een groep mensen.
+1. **Discriminatie beperkt ons.** Dit geldt ook voor discriminatie op basis van ras, geslacht, seksuele geaardheid, genderidentiteit, leeftijd, nationaliteit en alle andere willekeurige uitsluiting van een groep mensen.
 2. **Grenzen eren ons.** Jouw comfortniveau is niet ieders comfortniveau. Vergeet dit niet en respecteer het wanneer je hieraan herinnerd wordt.
 3. **Wij zijn onze grootste troeven.** Niemand van ons is geboren als meester in het vak. Ieder van ons is op weg geholpen. Verleen die gunst terug, waar en wanneer je kunt.
 4. **Wij zijn de bronnen voor de toekomst.** Als een verlengstuk van nummer 3, deel wat je weet. Wees een bron voor diegenen die na je komen.
