@@ -3,7 +3,7 @@
 class SupporterController extends BaseController
 {
   /**
-   * Stores new Support Information to the database
+   * Stores a new supporter to the database
    *
    * @return Response
    */
@@ -37,7 +37,7 @@ class SupporterController extends BaseController
   }
 
   /**
-   * Stores new Support Information to the database
+   * Returns a view support
    *
    * @return Response
    */
@@ -47,7 +47,7 @@ class SupporterController extends BaseController
   }
 
   /**
-   * Stores new Support Information to the database
+   * Returns a view with all the supporters
    *
    * @return Response
    */
