@@ -15,8 +15,9 @@ class ManifestoController extends BaseController
    */
   public function manifesto( $language = NULL )
   {
+        
       $Parsedown = new Parsedown();
-      $language ? File::get( base_path() . '/README.' . $language . '.md' ) : File::get( base_path() . '/README.md' );
+      $content = $language ? File::get( base_path() . '/README.' . $language . '.md' ) : File::get( base_path() . '/README.md' );
       $content = $Parsedown->text( $content );
 
       return View::make( 'manifesto' )->with( [ 'content' => $content ] );
