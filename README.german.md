@@ -7,8 +7,8 @@ Ein solches Umfeld nutzt allen, die daran teilhaben. Es ermutigt neue Entwickler
 
 Die folgenden Werte dienen als Grundlage für ein solches Umfeld:
 
-1. ** Diskriminierung schränkt uns. ** Dies schließt Diskriminierung aufgrund von Rasse, Geschlecht, sexueller Orientierung, Geschlechtsidentität, Alter, Nationalität und jede andere beliebige Ausschluss einer Gruppe von Menschen.
-2. **Mit Grenzen ehren wir uns gegenseitig.** Nicht jeder hat die gleiche Comfort-Zone. Denkt daran und wenn ihr darauf hingewiesen werdet, respektiert sie entsprechend.
+1. **Diskriminierung schränkt uns ein.** Dies schließt Diskriminierung aufgrund von Rasse, Geschlecht, sexueller Orientierung, Geschlechtsidentität, Alter, Nationalität und jeden anderen Ausschluss einer Gruppe von Menschen ein.
+2. **Gegenseitiger Respekt.** Wir sind verschieden, denkt immer daran und respektiert die Ansichten und Gefühle eures Gegenüber.
 3. **Wir selbst sind unser größtes Kapital.** Niemand hier wurde als Meister unseres Faches geboren. Jedem wurde schon einmal geholfen. Erwidert den Gefallen, wann und wo immer ihr könnt.
 4. **Wir sind die Ressourcen der Zukunft.** Quasi eine Erweiterung von Nr. 3: Teilt euer Wissen. Werdet selbst zu einer Informationsquelle, um denen zu helfen, die nach euch kommen.
 5. **Respekt definiert uns.** Behandelt andere so, wie ihr behandelt werden möchtet. Für Diskussionen, Debatten und Kritik gilt: immer respektvoll bleiben.
