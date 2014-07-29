@@ -32,6 +32,15 @@ class SupporterController extends BaseController
       $supporter->country = Input::get( 'country' );
       $supporter->save();
 
+      $data = [
+        'id' => $supporter->id,
+        'city' => $supporter->city,
+        'state' => $supporter->state,
+        'country' => $supporter->country
+      ];
+
+      Queue::push('CodeManifesto\Mapping\Mapping', $data);
+
       return Redirect::to( '/thankYou' );
     }
   }
