@@ -1,5 +1,7 @@
 <?php
 
+use CodeManifesto\Mapping\Mapping;
+
 class SupporterController extends BaseController
 {
   /**
