@@ -1,5 +1,7 @@
 <?php
 
+use CodeManifesto\Mapping\Mapping;
+
 class SupporterController extends BaseController
 {
   /**
@@ -16,8 +18,7 @@ class SupporterController extends BaseController
 
     $validator = Validator::make( Input::all(), $rules );
 
-    if ( $validator->fails() )
-    {
+    if ( $validator->fails() ) {
       return Redirect::to( '/support' )->withErrors( $validator )
                 ->withInput( Input::all() );
     } else {
@@ -31,6 +32,15 @@ class SupporterController extends BaseController
       $supporter->state = Input::get( 'state' );
       $supporter->country = Input::get( 'country' );
       $supporter->save();
+
+      $data = [
+        'id' => $supporter->id,
+        'city' => $supporter->city,
+        'state' => $supporter->state,
+        'country' => $supporter->country
+      ];
+
+      Queue::push('CodeManifesto\Mapping\Mapping', $data);
 
       return Redirect::to( '/thankYou' );
     }
