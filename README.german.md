@@ -14,6 +14,7 @@ Die folgenden Werte dienen als Grundlage für ein solches Umfeld:
 5. **Respekt definiert uns.** Behandelt andere so, wie ihr behandelt werden möchtet. Für Diskussionen, Debatten und Kritik gilt: immer respektvoll bleiben.
 Fragt euch selbst: Ist es zutreffend? Ist es notwendig? Ist es konstruktiv? Alles andere wird nicht toleriert.
 6. ** Reaktionen erfordern Gnade. ** Verärgerte Reaktionen sind gültig, aber Beleidigungen und rachsüchtig Aktionen sind giftig. Wenn etwas passiert, das beleidigt fühlen, selbstbewusst damit umgehen, aber respektvoll. Eskalieren vernünftig, und versuchen nach dem Täter die Möglichkeit, sich zu erklären, und möglicherweise das Problem beheben können.
+7. **Meinungen sind genau das: Meinungen.** Jede und jeder von uns, aufgrund unserer Herkunft und Erziehung, haben unterschiedliche Meinungen. Die Tatsache der Angelegenheit ist, dass es völlig akzeptabel. Denken Sie daran: wenn Sie Ihre eigenen Meinungen zu respektieren, sollten Sie die Meinungen anderer zu respektieren.
 
 
 Euer Beitrag
