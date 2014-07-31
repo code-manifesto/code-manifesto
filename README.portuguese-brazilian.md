@@ -13,6 +13,7 @@ No esforço de criar tal lugar, sustentamos estes valores:
 4. **Somos recursos para o futuro.** Uma extensão do item #3, compartilhe seu conhecimento. Transforme-se em um recurso de auxílio àqueles que vierem depois de você.
 5. **Respeito nos define.** Trate aos outros como gostaria de ser tratado. Discuta, critique e debata respeitosamente. Pergunte-se: isso é verdade? Isso é necessário? Isso é construtivo? Qualquer outra coisa não é tolerável.
 6. ** Reações requerem graça. ** Respostas irritadas são válidas, mas as ações de linguagem abusiva e vingativos são tóxicos. Quando acontece algo que ofende, lidar com isso de forma assertiva, mas ser respeitoso. Escalar razoavelmente, e tentar permitir que o infrator a oportunidade de explicar a si mesmos, e, possivelmente, corrigir o problema.
+7. **As opiniões são apenas isso: opiniões.** Todos e cada um de nós, devido à nossa formação e educação, têm diferentes opiniões. O fato da matéria é que é perfeitamente aceitável. Lembre-se: se você respeitar suas próprias opiniões, você deve respeitar as opiniões dos outros.
 
 
 Como contribuir
