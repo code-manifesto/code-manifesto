@@ -13,6 +13,7 @@ En el esfuerzo por crear tal espacio, sostenemos estos valores:
 4. **Somos recursos para el futuro.** Como una extensión de #3, comparte lo que sabes. Haz de ti un recurso de ayuda para quienes vienen detrás.
 5. **El Respeto nos define.** Trata a otros como quieras ser tratado. Conduce tus discusiones, críticas y debates desde el respeto. Pregúntate, ¿Es esto cierto, necesario o constructivo? Cualquier actitud menor es intolerable.
 6. **Las Malas Reacciones requieren gracia.** Las respuestas airadas son válidas, pero el lenguaje abusivo y las acciones vengativas son tóxicos. Cuando sucede algo que te ofende, manéjalo con firmeza, pero se respetuoso. Escala razonablemente, y trata de dar la oportunidad a quien causó la ofensa de explicarse, y posiblemente de corregir el problema.
+7. **Las opiniones son sólo eso: opiniones.** Todos y cada uno de nosotros, debido a nuestro fondo y la educación, tienen diferentes opiniones. El hecho del asunto es que es perfectamente aceptable. Recuerda esto: si usted respeta sus propias opiniones, que debe respetar las opiniones de los demás.
 
 
 Cómo contribuir
