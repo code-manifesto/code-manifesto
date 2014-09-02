@@ -39,7 +39,7 @@
     Arabic by <a href="https://github.com/badrchaouai">Badr Chaouai</a> and <a href="https://github.com/ibrasho">Ibrahim AshShohail</a><br>
     Dutch by <a href="https://github.com/wvdweij">Wijnand</a><br>
     French by <a href="https://github.com/tgalopin">Titouan Galopin</a> and <a href="https://github.com/aalaap">Aalaap</a><br>
-    German by <a href="https://github.com/janhohner">Jan Hohner</a> and <a href="https://github.com/philipp-mueller">Philipp Mueller </a><br>
+    German by <a href="https://www.xing.com/profile/Rebecca_Stiebeiner">Rebecca Stiebeiner</a>, <a href="https://github.com/janhohner">Jan Hohner</a> and <a href="https://github.com/philipp-mueller">Philipp Mueller </a><br>
     Hindi by <a href="https://github.com/vanimurarka">Vani Murarka</a><br>
     Italian by <a href="https://twitter.com/damko">Damiano Venturin</a><br>
     Brazilian Portuguese by <a href="https://github.com/antonioribeiro">Antonio Carlos Ribeiro</a><br>
