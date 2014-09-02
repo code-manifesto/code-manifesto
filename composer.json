@@ -6,7 +6,9 @@
 	"require": {
 		"laravel/framework": "4.1.*",
         "thomaswelton/laravel-gravatar": "0.0.x",
-        "erusev/parsedown": "1.0.1"
+        "erusev/parsedown": "1.0.1",
+        "iron-io/iron_mq": "1.5.1",
+        "guzzle/guzzle": "3.9.*"
 	},
 	"autoload": {
 		"classmap": [
