@@ -23,5 +23,3 @@ Euer Beitrag
 Dies ist eine Gemeinschaftsleistung. Pull Requests sind willkommen.
 
 (Auch Beiträge zu Wortlaut und Stil sind willkommen.)
-
-Translation by Rebecca Stiebeiner
