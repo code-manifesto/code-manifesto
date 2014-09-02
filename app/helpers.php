@@ -7,5 +7,5 @@ function set_active($path, $active = 'active')
 
 function is_rtl()
 {
-    return in_array(Request::segment(2), array('hindi',  'arabic')) ? 'dir="RTL"' : '';
+    return in_array(Request::segment(2), array('arabic')) ? 'dir="RTL"' : '';
 }
