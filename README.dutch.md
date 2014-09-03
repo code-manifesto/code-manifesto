@@ -13,7 +13,8 @@ In de poging om deze plek te creëren, houden we vast aan de volgende waarden:
 4. **Wij zijn de bronnen voor de toekomst.** Als een verlengstuk van nummer 3, deel wat je weet. Wees een bron voor diegenen die na je komen.
 5. **Respect definieert ons.** Behandel anderen zoals je zelf behandeld wilt worden. Voer discussies, kritiek en debatten met eerbied. Stel jezelf de vraag, is het waar? Is het nodig? Is het opbouwend? Alles dat hier niet aan voldoet, wordt niet getolereerd.
 6. **Reacties vereisen genade.** Boze reacties zijn toelaatbaar, maar beledigende taal en wraakzuchtige acties zijn vergif. Wanneer er iets gebeurt waardoor je je beledigd voelt, ga daar dan assertief maar respectvol mee om. Escaleer binnen het redelijke. Geef diegene die jou beledigd heeft een kans om zichzelf uit te leggen en eventueel de kwestie te corrigeren.
-7. **Meningen zijn precies dat: adviezen.** Ieder van ons, vanwege onze achtergrond en opvoeding, hebben verschillende meningen. Het feit van de zaak, is dat perfect aanvaardbaar. Onthoud dit: als u uw eigen mening te respecteren, moet je de meningen van anderen te respecteren.
+7. **Meningen zijn precies dat: meningen.** Ieder van ons heeft, vanwege onze achtergrond en opvoeding, verschillende meningen. En dat is perfect accepteerbaar. Onthoud dit: als je je eigen mening respecteert, respecteer dan ook die van anderen.
+8. **Vergissen is menselijk** Iedereen maakt onbewust fouten. Tolereer dit en aarzel niet om je te verontschuldigen als je er zelf een maakt.
 
 
 Hoe kan je bijdragen
