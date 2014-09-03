@@ -14,7 +14,7 @@ Nel tentativo di creare un tale ambiente, promuoviamo questi valori:
 5. **Il rispetto ci definisce.** Tratta gli altri nel modo in cui vuoi essere trattato. Discuti, critica e dibatti con rispetto. Chiedeti sempre se stai dicendo il vero, se è necessario o se è costruttivo. Diversamente, non é tollerabile.
 6. **Reagisci aggraziatamente.** Sebbene sia accettabile rispondere con rabbia, usare un linguaggio offensivo o atteggiamenti vendicativi é distruttivo. Anche se qualcosa ti offende, sii assertivo e rispettoso. Sostieni il dibattito con ragionevole
 7. **Le opinioni sono solo questo: pareri.** Ognuno di noi, a causa della nostra sfondo e l'educazione, hanno diversi pareri. Il nocciolo della questione, è che è perfettamente accettabile. Ricorda questo: se si rispettano le proprie opinioni, è necessario rispettare le opinioni degli altri.zza, e consenti a chi ti ha offeso la  possibilità di spiegarsi, ed eventualmente, di appianare la questione.
-
+8. **To err is human.** You might not intend it, but mistakes do happen. Tolerate honest mistakes, and don't hesitate to apologize if you make one yourself.
 
 Come contribuire
 =================
