@@ -14,6 +14,7 @@ Prin efortul de a crea un astfel de mediu, noi ne bazăm pe următoarele valori:
 5. **Respectul ne defineṣte. **Comportă-te cu alții ân aṣa fel ân care vrei alții să se comporte cu tine. Initiază cu respect orice discuții, critici or dezbateri. Intreabă-te , dacă este adevărat? Dacă este necesar? Dacă este implicit? Totul ce nu corespunde nu se va tolera.
 6. **Reacțiile neceseta eleganță.** Răspunsurile furioase sunt relevante, ânsă limbajul insultător ṣi gesturile de răzbunare sunt toxice. Când s-a intimplat ceva ce te-a jignit , răspunde cu hotărire, dar ṣi cu respect. Nu agrava situația fără motiv, ṣi oferă  oponentului ṣansa de a explica, ṣi prin urmare de a corecta neânțelegerea.
 7. **Părerile sunt doar : păreri.** Fiecare dintre noi, ân dependență de trecutul nostru ṣi educația noastră, vom avea păreri diferite. Ce conteaza e că acest fapt este absolut tolerabil. Ia aminte: dacă tu âți respecți propria părere, ar trebui sa respecți opinia altora.
+8. **To err is human.** You might not intend it, but mistakes do happen. Tolerate honest mistakes, and don't hesitate to apologize if you make one yourself.
 
 Cum să contribui
 =================
