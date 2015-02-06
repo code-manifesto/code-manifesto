@@ -12,16 +12,16 @@
     </h4>
 
     {{ Form::open(array('url' => '/support', 'class'=>'form-horizontal')) }}
-
-        <span class="col-sm-12 text-left text-danger">{{ $errors->first('first_name') }}</span>
+        
+        <label class="text-left text-danger">{{ $errors->first('first_name') }}</label>
         {{ Form::text('first_name', '',  array('class'=>"form-control", 'placeholder'=>'First Name*')) }}
         <br>
 
-        <span class="col-sm-12 text-left text-danger">{{ $errors->first('last_name') }}</span>
+        <label class="text-left text-danger">{{ $errors->first('last_name') }}</label>
         {{ Form::text('last_name', '', array('class'=>"form-control", 'placeholder'=> 'Last Name*')) }}
         <br>
 
-        <span class="col-sm-12 text-left text-danger">{{ $errors->first('email') }}</span>
+        <label class="text-left text-danger">{{ $errors->first('email') }}</label>
         {{ Form::text('email', '', array('class'=>"form-control" , 'placeholder'=> 'Email Address*')) }}
         <br>
 
