@@ -13,6 +13,7 @@
 
     {{ Form::open(array('url' => '/support', 'class'=>'form-horizontal')) }}
 
+        <br>
         <span class="col-sm-12 text-left text-danger">{{ $errors->first('first_name') }}</span>
         {{ Form::text('first_name', '',  array('class'=>"form-control", 'placeholder'=>'First Name*')) }}
         <br>
