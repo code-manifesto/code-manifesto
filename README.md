@@ -1,7 +1,7 @@
 The Code Manifesto
 ==================
 
-We want to work in an ecosystem that empowers developers to reach their potential--one that encourages professional growth and effective collaboration. A space that is safe for all.
+We want to work in an ecosystem that empowers developers to reach their potential--one that encourages growth and effective collaboration. A space that is safe for all.
 
 A space such as this benefits everyone that participates in it. It encourages new developers to enter our field. It is through discussion and collaboration that we grow, and through growth that we improve.
 
