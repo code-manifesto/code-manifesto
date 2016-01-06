@@ -7,7 +7,7 @@ function set_active($path, $active = 'active')
 
 function is_rtl()
 {
-    $rtl_languages = ['arabic'];
+    $rtl_languages = ['arabic', 'hebrew'];
     
     return in_array(Request::segment(2), $rtl_languages) ? 'rtl' : '';
 }
