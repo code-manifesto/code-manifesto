@@ -14,7 +14,7 @@ En el esfuerzo por crear tal espacio, sostenemos estos valores:
 5. **El Respeto nos define.** Trata a otros como quieras ser tratado. Conduce tus discusiones, críticas y debates desde el respeto. Pregúntate, ¿Es esto cierto, necesario o constructivo? Cualquier actitud menor es intolerable.
 6. **Las Malas Reacciones requieren gracia.** Los exabruptos son válidos, pero el lenguaje abusivo y las acciones vengativas son tóxicos. Cuando suceda algo que te ofenda, manéjalo con firmeza, pero se respetuoso. Escala razonablemente, y trata de dar la oportunidad a quien causó la ofensa de explicarse, y posiblemente de corregir el problema.
 7. **Las opiniones son sólo eso: opiniones.** Todos y cada uno de nosotros tenemos diferentes opiniones, debido a nuestros antecedentes y nuestra crianza. Esto es perfectamente aceptable. Recuerda esto: si respetas tus propias opiniones, debes respetar las opiniones de los demás.
-8. **Errar es humano.** Los errores suceden y contribuyen a nuestra experiencia, por más de que no sean nuestra intención cometerlos. Tolera equivocaciones honestas y no dudes en pedir disculpas si tú cometes una.
+8. **Errar es humano.** Los errores suceden y contribuyen a aumentar nuestra experiencia, por más que no sea nuestra intención cometerlos. Tolera equivocaciones honestas y no dudes en pedir disculpas si tú cometes una.
 
 
 ¿Cómo contribuir?
