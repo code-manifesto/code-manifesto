@@ -12,21 +12,20 @@ class CreateSupportersTable extends Migration {
 	 */
 	public function up()
 	{
-        Schema::create('supporters', function($table)
-        {
-
-            $table->increments('id');
-            $table->string('first_name');
-            $table->string('last_name');
-            $table->string('email');
-            $table->string('twitter_user')->nullable();
-            $table->string('github_user')->nullable();
-            $table->string('city')->nullable();
-            $table->string('state')->nullable();
-            $table->string('country')->nullable();
-            $table->timestamps();
-
-        });
+	        Schema::create('supporters', function($table)
+	        {
+	            $table->increments('id');
+	            $table->string('first_name');
+	            $table->string('last_name');
+	            $table->string('email');
+	            $table->string('twitter_user')->nullable();
+	            $table->string('github_user')->nullable();
+	            $table->string('city')->nullable();
+	            $table->string('state')->nullable();
+	            $table->string('country')->nullable();
+	            $table->timestamps();
+	
+	        });
 	}
 
 	/**
@@ -36,7 +35,7 @@ class CreateSupportersTable extends Migration {
 	 */
 	public function down()
 	{
-        Schema::drop('users');
+	        Schema::drop('supporters');
 	}
 
 }
