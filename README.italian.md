@@ -1,5 +1,5 @@
-Il manifesto del codice
-=======================
+Il Code Manifesto
+==================
 
 Vogliamo operare in un ecosistema che consente agli sviluppatori di esprimere il loro potenziale. Un ecosistema che incoraggi crescita e collaborazione. Un ambiente che sia sicuro e piacevole per tutti.
 
