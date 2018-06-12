@@ -8,7 +8,7 @@ Un tale ambiente avvantaggia tutti quelli che vi partecipano. Incoraggia nuovi s
 Nel tentativo di creare un tale ambiente, promuoviamo questi valori:
 
 1. **La discriminazione ci limita.** Questo include discriminazioni di razza, sesso, orientamento sessuale, identità sessuale, nazionalità ed ogni forma di esclusione arbitraria di un gruppo di persone.
-2. **Sapersi limitare è un onore.** Sensibilità e suscettibilità sono diverse di persona in persona. Ricordalo e, se qualcuno ti fa notare che stai oltrepassando i limiti, dagli ascolto.
+2. **Rispettiamo in confini.** Sensibilità e suscettibilità sono diverse di persona in persona. Ricordalo e, se qualcuno ti fa notare che stai esagerando, dagli ascolto.
 3. **Noi siamo il nostro capitale.** Nessuno è nato maestro. Ognuno è stato aiutato lungo il suo cammino. Ricambia il favore, quando e dove puoi.
 4. **Siamo risorse per il futuro.** Estendendo #3, condividi quel che sai. Renditi una risorsa utile per coloro che verranno dopo di te.
 5. **Il rispetto ci definisce.** Tratta gli altri nel modo in cui vuoi essere trattato. Discuti, critica e dibatti con rispetto. Chiediti sempre se stai dicendo il vero, se è necessario e costruttivo. Diversamente, non è tollerabile.
