@@ -1,3 +1,6 @@
+---
+permalink: /ln/italian
+---
 Il manifesto del codice
 =======================
 

@@ -1,3 +1,6 @@
+---
+permalink: /ln/dutch
+---
 Het codemanifest
 ================
 

@@ -1,3 +1,6 @@
+---
+permalink: /ln/turkish
+---
 Kod Manifestosu
 ==================
 
@@ -8,7 +11,7 @@ Böyle bir organizasyon içerisinde bulunan herkese fayda sağlar. Yeni katılan
 Böyle bir organizasyonu oluşturmak için şu ilkeleri gözetiriz:
 
 1. **Ayrımcılık bizi limitler.** Bu ilke; cinsiyet, cinsel tercih, cinsel kimlik, yaş, ırk, teknoloji ayrımcılığını ve keyfi olarak bir grup insanın kapsam dışı bırakılmasını kapsar.
- 
+
 2. **Sınırlar bizi onurlandırır.** Konfor alanın diğerlerinin konfor alanı değildir. Bunu unutma ve eğer bu husus gündem olursa dikkate al.
 
 3. **En büyük değerimiz kendimiziz.** Hiçbirimiz zanaatımızın üstadı olarak doğmadık. Her birimiz yol boyunca yardım aldık. Ne zaman ve nerede olursa olsun yapabildiğinde sana yapılan bu iyiliğe karşılık ver.

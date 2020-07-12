@@ -1,3 +1,6 @@
+---
+permalink: /ln/romanian
+---
 Manifestul privind codul de conduit
 ===================================
 

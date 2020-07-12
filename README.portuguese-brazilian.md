@@ -1,3 +1,6 @@
+---
+permalink: /ln/portuguese-brazilian
+---
 Manifesto do Código
 ===================
 

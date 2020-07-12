@@ -1,3 +1,6 @@
+---
+permalink: /ln/polish
+---
 Manifest Kodu
 ==================
 
