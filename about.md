@@ -1,50 +1,43 @@
-@extends('layouts.master')
+FAQ
+---
 
-@section('content')
-<div class="inner cover text-left">
-    <h2>FAQ</h2>
+### What is it?
 
-    <h3>What is it?</h3>
-    The Code Manifesto is the brain child of <a href="http://twitter.com/kayladnls">Kayla Daniels</a>.
-    It was was born from frustration with the current state of the technology industry. It is simply
-    a set of values that can all be combined and boiled down into a simple premise: Respect Each Other.
+The Code Manifesto is the brain child of [Kayla Daniels](http://twitter.com/kayladnls).
+It was was born from frustration with the current state of the technology industry. It is simply
+a set of values that can all be combined and boiled down into a simple premise: Respect Each Other.
 
-    The idea behind the Manifesto is that if more people held these values, and kept them top of mind,
-    our industry would be a better place.
+The idea behind the Manifesto is that if more people held these values, and kept them top of mind,
+our industry would be a better place.
 
-    <h3>Who is it for?</h3>
-    It is for everyone. Developers. Project Managers. Business owners. Conference organizers and attendees.
-    We exclude no one.
+### Who is it for?
 
-    <h3>What can I do to help?</h3>
-    Support it. Talk about it. Encourage others to support it.
-    <br>
-    <br>
-    This is an open source effort. The Manifesto is available on <a href="http://github.com/kayladnls/code-manifesto">github</a>.
-    Pull requests are welcomed the only thing we ask is that additions are made in the form of 'values',
-    rather than 'actions'.
-    <br>
-    <br>
+It is for everyone. Developers. Project Managers. Business owners. Conference organizers and attendees.
+We exclude no one.
 
-    Additionally, if you are a designer and would like to contribute, your help would be greatly appreciated.
-    You can contact Kayla <a href="mailto:kayladnls@gmail.com">here</a>.
-    <br>
-    <br>
-    
-    Logo Designed by <a href="http://matthewa.com/" target="_blank">Matt Andrews</a>
-    <br>
-    Front End Contributions by <a href="https://github.com/craigpaul">Craig Paul</a>
+### What can I do to help?
 
-    <h4>Translations</h4>
-    Arabic by <a href="https://github.com/badrchaouai">Badr Chaouai</a> and <a href="https://github.com/ibrasho">Ibrahim AshShohail</a><br>
-    Dutch by <a href="https://github.com/wvdweij">Wijnand</a><br>
-    French by <a href="https://github.com/tgalopin">Titouan Galopin</a> and <a href="https://github.com/aalaap">Aalaap</a><br>
-    German by <a href="https://www.xing.com/profile/Rebecca_Stiebeiner">Rebecca Stiebeiner</a>, <a href="https://github.com/janhohner">Jan Hohner</a> and <a href="https://github.com/philipp-mueller">Philipp Mueller </a><br>
-    Hindi by <a href="https://github.com/vanimurarka">Vani Murarka</a><br>
-    Italian by <a href="https://twitter.com/damko">Damiano Venturin</a><br>
-    Brazilian Portuguese by <a href="https://github.com/antonioribeiro">Antonio Carlos Ribeiro</a><br>
-    Romanian by <a href="https://github.com/adamgoose">Adam Engebretson</a><br>
-    Russian by <a href="https://github.com/adamgoose">Adam Engebretson</a><br>
-    Spanish by <a href="https://github.com/nvellon">Nicolás Vellón</a><br>
-</div>
-@stop
+Support it. Talk about it. Encourage others to support it.
+
+This is an open source effort. The Manifesto is available on [github](http://github.com/kayladnls/code-manifesto).
+
+Pull requests are welcomed the only thing we ask is that additions are made in the form of 'values',
+rather than 'actions'.
+
+Additionally, if you are a designer and would like to contribute, your help would be greatly appreciated. You can contact Kayla [here](mailto:kayladnls@gmail.com).
+
+Logo Designed by [Matt Andrews](http://matthewa.com/)
+Front End Contributions by [Craig Paul](https://github.com/craigpaul)
+
+#### Translations
+
+- Arabic by [Badr Chaouai](https://github.com/badrchaouai) and [Ibrahim AshShohail](https://github.com/ibrasho)
+- Dutch by [Wijnand](https://github.com/wvdweij)
+- French by [Titouan Galopin](https://github.com/tgalopin) and [Aalaap](https://github.com/aalaap)
+- German by [Rebecca Stiebeiner](https://www.xing.com/profile/Rebecca_Stiebeiner), [Jan Hohner](https://github.com/janhohner) and [Philipp Mueller](https://github.com/philipp-mueller)
+- Hindi by [Vani Murarka](https://github.com/vanimurarka)
+- Italian by [Damiano Venturin](https://twitter.com/damko)
+- Brazilian Portuguese by [Antonio Carlos Ribeiro](https://github.com/antonioribeiro)
+- Romanian by [Adam Engebretson](https://github.com/adamgoose)
+- Russian by [Adam Engebretson](https://github.com/adamgoose)
+- Spanish by [Nicolás Vellón](https://github.com/nvellon)
