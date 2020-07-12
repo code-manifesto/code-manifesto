@@ -1,0 +1,17 @@
+baseurl: /code-manifesto
+description: The Code Manifesto
+permalink: pretty
+title: The Code Manifesto
+url: "https://greydnls/.github.io"
+
+nav:
+  - title: About
+    url: about
+  - title: Support It
+    url: support
+  - title: View Supporters
+    url: thankYou
+
+rtl_languages:
+  - arabic
+  - hebrew
