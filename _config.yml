@@ -7,10 +7,6 @@ url: "https://greydnls/.github.io"
 nav:
   - title: About
     url: about
-  - title: Support It
-    url: support
-  - title: View Supporters
-    url: thankYou
 
 rtl_languages:
   - arabic
