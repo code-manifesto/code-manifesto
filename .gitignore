@@ -1,10 +1,7 @@
-/bootstrap/compiled.php
-/vendor
-/.idea
-composer.phar
-composer.lock
-.env.*.php
-.env.php
-.DS_Store
-Thumbs.db
-.idea
+# Folders to ignore
+_site/
+.jekyll-cache/
+
+# Files to ignore
+.jekyll-metadata
+Gemfile.lock

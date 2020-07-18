@@ -1,3 +1,6 @@
+---
+permalink: /ln/spanish
+---
 Code Manifesto: El Manifiesto del Código
 ========================================
 

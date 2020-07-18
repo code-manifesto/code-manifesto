@@ -1,0 +1,11 @@
+{%- include header.lqd.html -%}
+{%- include navbar.lqd.html -%}
+<div class="container-fluid">
+    <div class="row row-offcanvas row-offcanvas-left">
+        {%- include sidebar.lqd.html -%}
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main{%- include rtl.lqd -%}">
+            {{ content }}
+        </div>
+    </div>
+</div>
+{%- include footer.lqd.html -%}

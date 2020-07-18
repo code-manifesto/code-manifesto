@@ -1,3 +1,6 @@
+---
+permalink: /ln/french
+---
 Le Code Manifesto
 =================
 

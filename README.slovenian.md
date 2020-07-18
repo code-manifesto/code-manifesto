@@ -1,3 +1,6 @@
+---
+permalink: /ln/slovenian
+---
 Kodni manifest
 ==============
 

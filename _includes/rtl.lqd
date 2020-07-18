@@ -1,0 +1,10 @@
+{%- capture buffer %}
+  {% assign rtl_class = "" %}
+
+  {% for rtl_language in site.rtl_languages %}
+    {% if page.url contains rtl_language %}
+        rtl
+        {% break %}
+    {% endif %}
+  {% endfor %}
+{% endcapture -%}{{ buffer }}
